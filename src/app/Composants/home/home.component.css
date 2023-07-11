@@ -1,0 +1,18 @@
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  color: cadetblue;
+}
+h3 {
+  font-size: 25px;
+  color: cadetblue;
+  text-align: center;
+}
+img {
+  object-fit: fill;
+}
+div {
+  align-items: center;
+  text-align: center;
+}
